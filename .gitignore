@@ -1,0 +1,6 @@
+/target/
+/.allure/
+/app/*.jar
+/.idea/
+*.iml
+.DS_Store
